@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bKsozKoDHUVn2SpihUm+ffPbg1HWcEMnQ8qzYG8N9As=",
+  "Source": "FlightSearchAPI",
+  "BasePath": "_content/FlightSearchAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
